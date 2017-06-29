@@ -1,5 +1,7 @@
 # New Eden Trade Guild Constitution
 
+![NETG Logo](https://image.eveonline.com/Corporation/98446794_128.png)
+
 ## Contents
 * §1 [Preamble](#1-preamble)
 * §2 [Joining NETG](#2-joining-netg)
