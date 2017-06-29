@@ -7,15 +7,16 @@
 
 <script type="text/javascript">
   var con = document.getElementById('content')
-   ,   xhr = new XMLHttpRequest();
-
+  var script = document.createElement('script')
+  var head = document.getElementsByTagName('<head>')[0]
+  script.src = "strapdown.js";
+  
+  var xhr = new XMLHttpRequest();
    xhr.onreadystatechange = function (e) { 
     if (xhr.readyState == 4 && xhr.status == 200) {
      con.innerHTML = xhr.responseText;
-
-     var script = document.createElement('script');
-     script.src = "http://whatever.com/the/script.js";
-     document.getElementsByTagName('<head>')[0].appendChild(script);    
+        
+     head.appendChild(script);    
     }
    }
 
