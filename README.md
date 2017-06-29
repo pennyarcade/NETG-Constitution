@@ -1,6 +1,6 @@
 # New Eden Trade Guild Constitution
 
-![NETG Logo](https://image.eveonline.com/Corporation/98446794_128.png)
+![NETG Logo](https://image.eveonline.com/Corporation/98446794_256.png)
 
 ## Contents
 * §1 [Preamble](#1-preamble)
@@ -24,7 +24,7 @@
 
 ## §3 Structure & Ranks
 ### §3.01 CEO
-![Kalden Rollard](https://imageserver.eveonline.com//Character/93930393_128.jpg)
+![Kalden Rollard](https://imageserver.eveonline.com//Character/93930393_64.jpg)
 ### §3.02 Director
 ### §3.01 Officer
 ### §3.01 Member
