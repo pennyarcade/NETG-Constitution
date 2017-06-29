@@ -22,6 +22,7 @@
 
 ## §3 Structure & Ranks
 ### §3.01 CEO
+![Kalden Rollard](https://imageserver.eveonline.com//Character/93930393_128.jpg)
 ### §3.02 Director
 ### §3.01 Officer
 ### §3.01 Member
